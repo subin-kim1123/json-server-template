@@ -5,8 +5,10 @@
         {
             "Id": 1,
             "title": "Cherry Blueberry Muffins",
-            "calories":  "calories”,
-            “Ingredients”: [
+            "ready in":  "45 minutes",
+            "servings": 12,
+            "calories": 168,
+            "Ingredients": [
                      "baking powder",
                      "baking soda",
                      "lemon juice",
@@ -21,26 +23,27 @@
                      "egg",
                      "blueberries",
                      "cherries",
-                     "berries",
+                     "berries"
                ],
              "steps": [
-                     "one": "Grease twelve regular sized muffin cups well with butter or oil.",
-                    "two": "In a large bowl, combine the flours, baking powder, baking soda, sugar, lemon zest and salt.",
-                    "three": "Make a well in the center of the ingredients and set aside.",
-                    "four": "In another bowl, combine the yogurt with the lemon juice.",
-                    "five": "Add the eggs, one at a time, whisking well after each addition." 
-                    "six": "Now add the vanilla and almond butter and whisk until well combined."
-                    "seven": "Pour this mixture into the dry ingredients and stir just to combine."
-                    "eight": "Gently fold in the cherries and blueberries."
-                    "nine": "Divide the batter evenly into the prepared muffin cups and bake in a preheat 350 degree oven for 20 - 25 minutes, or until a cake tester or toothpick comes out clean."
-                    "ten": "Leave the muffins in the pan for 10 minutes and then transfer to a wire rack to cool.Yields 12 berry filled muffins."
-                ]
+                     "Grease twelve regular sized muffin cups well with butter or oil.",
+                    "In a large bowl, combine the flours, baking powder, baking soda, sugar, lemon zest and salt.",
+                    "Make a well in the center of the ingredients and set aside.",
+                    "In another bowl, combine the yogurt with the lemon juice.",
+                    "Add the eggs, one at a time, whisking well after each addition.", 
+                    "Now add the vanilla and almond butter and whisk until well combined.",
+                    "Pour this mixture into the dry ingredients and stir just to combine.",
+                    "Gently fold in the cherries and blueberries.",
+                    "Divide the batter evenly into the prepared muffin cups and bake in a preheat 350 degree oven for 20 - 25 minutes, or until a cake tester or toothpick comes out clean.",
+                    "Leave the muffins in the pan for 10 minutes and then transfer to a wire rack to cool.Yields 12 berry filled muffins."
+                ],
             "Images": [
-                     "Image1": "https://spoonacular.com/recipeImages/716211-556x370.jpg",
-                     “Image 2”: “http://image2.com” ],
+                     "https://spoonacular.com/recipeImages/716211-556x370.jpg"
+                     
+                    ],
   
-            “Blog”: “blog”,
-            “winePairing”: "N/A",
+            "Blog": "Cherry Blueberry Muffins might be just the morn meal you are searching for.",
+            "wine pairing": "N/A",
             "Source": "http://foodandspice.blogspot.com/2009/07/cherry-blueberry-muffins.html"
         }, 
        {
