@@ -1,12 +1,12 @@
 { 
   "recipes" : [        
         {
-            "Id": 1,
+            "id": 1,
             "title": "Cherry Blueberry Muffins",
-            "ready in":  "45 minutes",
+            "readyIn":  "45 minutes",
             "servings": 12,
             "calories": 168,
-            "Ingredients": [
+            "ingredients": [
                      "baking powder",
                      "baking soda",
                      "lemon juice",
@@ -35,22 +35,18 @@
                     "Divide the batter evenly into the prepared muffin cups and bake in a preheat 350 degree oven for 20 - 25 minutes, or until a cake tester or toothpick comes out clean.",
                     "Leave the muffins in the pan for 10 minutes and then transfer to a wire rack to cool.Yields 12 berry filled muffins."
                 ],
-            "Images": [
-                     "https://spoonacular.com/recipeImages/716211-556x370.jpg"
-                     
-                    ],
-  
-            "Blog": "Cherry Blueberry Muffins might be just the morn meal you are searching for.",
-            "wine pairing": "N/A",
-            "Source": "http://foodandspice.blogspot.com/2009/07/cherry-blueberry-muffins.html"
+            "image": "https://spoonacular.com/recipeImages/716211-556x370.jpg",
+            "blog": "Cherry Blueberry Muffins might be just the morn meal you are searching for.",
+            "winePairing": "N/A",
+            "source": "http://foodandspice.blogspot.com/2009/07/cherry-blueberry-muffins.html"
         }, 
         {
-          "Id": 2,
+          "id": 2,
           "title": "Cheesy Potato Corn Scones",
-          "ready in":  "45 minutes",
+          "readyIn":  "45 minutes",
           "servings": 8,
           "calories": 248,
-          "Ingredients": [
+          "ingredients": [
                    "instant potatoes flakes",
                    "butter",
                    "water",
@@ -69,22 +65,18 @@
                 "Bake in a preheated 400 degree F oven for about 25 minutes or until lightly browned.  Gently pull or cut scones to separate.", 
                 "Serve warm."
               ],
-          "Images": [
-            "https://spoonacular.com/recipeImages/637675-556x370.jpg"
-                   
-                  ],
-
+          "image": "https://spoonacular.com/recipeImages/637675-556x370.jpg",
           "summary": "Cheesy Potato Corn Scones might be a good recipe to expand your breakfast repertoire. This lacto ovo vegetarian recipe serves 8 and costs 34 cents per serving. One serving contains 248 calories.",
           "wine pairing": "N/A",
-          "Source": "http://foodandspice.blogspot.com/2009/07/cherry-blueberry-muffins.html"
+          "source": "http://foodandspice.blogspot.com/2009/07/cherry-blueberry-muffins.html"
       }, 
       {
         "Id": 3,
         "title": "No Oven Peanut Butter Squares",
-        "ready in":  "45 minutes",
+        "readyIn":  "45 minutes",
         "servings": 24,
         "calories": 247,
-        "Ingredients": [
+        "ingredients": [
                  "butter",
                  "peanut butter",
                  "sugar"
@@ -96,22 +88,18 @@
               "Cut partially through mixture to mark squares with desired size. Can refrigerate or wait until it sets. Lift from pan, using handles from foil or wax paper.",
               "Cut all the way through mixture into squares." 
             ],
-        "Images": [
-          "https://spoonacular.com/recipeImages/653169-556x370.jpg"
-                 
-                ],
-
+        "image": "https://spoonacular.com/recipeImages/653169-556x370.jpg",
         "summary": "No Oven Peanut Butter Squares might be just the condiment you are searching for. One serving contains 247 calories, 4g of protein, and 16g of fat. For 45 cents per serving, this recipe covers 4% of your daily requirements of vitamins and minerals.",
-        "wine pairing": "N/A",
-        "Source": "http://www.foodista.com/recipe/3T84VN8X/no-oven-peanut-butter-squares"
+        "winePairing": "N/A",
+        "source": "http://www.foodista.com/recipe/3T84VN8X/no-oven-peanut-butter-squares"
     }, 
     {
-      "Id": 4,
+      "id": 4,
       "title": "Mexican Casserole",
-      "ready in":  "65 minutes",
+      "readyIn":  "65 minutes",
       "servings": 6,
       "calories": 494,
-      "Ingredients": [
+      "ingredients": [
                "whole chicken",
                "water",
                "rice",
@@ -126,22 +114,19 @@
             "Place mixture into the 9 x 13 dish and cover with the remaining cup of cheddar cheese.",
             "Bake for 40 minutes. Allow to cool before serving."
           ],
-      "Images": [
-        "https://spoonacular.com/recipeImages/715438-556x370.jpg"
-               
-              ],
+      "image": "https://spoonacular.com/recipeImages/715438-556x370.jpg",
 
       "summary": "The recipe Mexican Casserole could satisfy your Mexican craving in around 1 hour and 5 minutes. This recipe serves 6 and costs $1.97 per serving. This main course has 494 calories, 33g of protein, and 19g of fat per serving. It can be enjoyed any time, but it is especially good for Autumn.",
-      "wine pairing": "N/A",
-      "Source": "http://www.pinkwhen.com/mexican-casserole/"
+      "winePairing": "N/A",
+      "source": "http://www.pinkwhen.com/mexican-casserole/"
   }, 
   {
-    "Id": 5,
+    "id": 5,
     "title": "Cranberry Apple Crisp",
-    "ready in":  "45 minutes",
+    "readyIn":  "45 minutes",
     "servings": 4,
     "calories": 834,
-    "Ingredients": [
+    "ingredients": [
              "4 cups granny smith apples, chopped into 1/2 inch chunks",
              "2 cups fresh cranberries",
              "1 cup sugar",
@@ -162,22 +147,19 @@
           "Remove the foil and bake for an additional 15 minutes, or until the oat topping is nicely browned.",
           "Serve warm as a side or for dessert with a scoop of vanilla ice cream."
         ],
-    "Images": [
-      "https://spoonacular.com/recipeImages/640352-556x370.jpg"
-             
-            ],
+    "image": "https://spoonacular.com/recipeImages/640352-556x370.jpg",
 
     "summary": "If you want to add more lacto ovo vegetarian recipes to your recipe box, Cranberry Apple Crisp might be a recipe you should try. This recipe serves 4 and costs $1.54 per serving. One serving contains 834 calories, 6g of protein, and 37 grams of fat. It works best as a dessert, and is done in roughly roughly 45 minutes.",
-    "wine pairing": "N/A",
-    "Source": "https://www.foodista.com/recipe/TJXDHDFD/cranberry-apple-crisp"
+    "winePairing": "N/A",
+    "source": "https://www.foodista.com/recipe/TJXDHDFD/cranberry-apple-crisp"
 }, 
 {
-  "Id": 6,
+  "id": 6,
   "title": "Maple Glazed Bacon Wrapped Pork Tenderloin",
-  "ready in":  "45 minutes",
+  "readyIn":  "45 minutes",
   "servings": 4,
   "calories": 308,
-  "Ingredients": [
+  "ingredients": [
            "12 2 oz pork tenderloins, trimmed",
            "Kosher salt",
            "Coarsely ground black pepper",
@@ -195,22 +177,19 @@
     "Remove from grill and let sit at room temperature for about 5 minutes before slicing.",
     "Serve with accumulated juices!"
       ],
-  "Images": [
-    "https://spoonacular.com/recipeImages/650901-556x370.jpg"
-           
-          ],
+  "image": "https://spoonacular.com/recipeImages/650901-556x370.jpg",
 
   "summary": "If you have approximately approximately 45 minutes to spend in the kitchen, Maple Glazed Bacon Wrapped Pork Tenderloin might be an amazing gluten free, dairy free, paleolithic, and primal recipe to try. This recipe serves 4. One portion of this dish contains roughly 9g of protein, 18g of fat, and a total of 308 calories. For $1.7 per serving, this recipe covers 8% of your daily requirements of vitamins and minerals. If you have bacon, toothpicks, coarsely ground pepper, and a few other ingredients on hand, you can make it.",
-  "wine pairing": "N/A",
-  "Source": "https://www.foodista.com/recipe/ZTJ2G6V8/maple-glazed-bacon-wrapped-pork-tenderloin"
+  "winePairing": "N/A",
+  "source": "https://www.foodista.com/recipe/ZTJ2G6V8/maple-glazed-bacon-wrapped-pork-tenderloin"
 }, 
 {
-  "Id": 7,
+  "id": 7,
   "title": "Amazing Braised Beef Short Ribs",
-  "ready in":  "45 minutes",
+  "readyIn":  "45 minutes",
   "servings": 6,
   "calories": 788,
-  "Ingredients": [
+  "ingredients": [
            "4 strips of Bacon",
            "3 tablespoons Olive Oil",
            "5 pounds Beef Short Ribs",
@@ -251,22 +230,19 @@
     "Add the Beef Short Ribs back to the pot of reduced…the heat.  Coat the Short Ribs in the Sauce well.",
     "Serve Immediately over Yukon Gold Mashed Potatoes or Polenta."
       ],
-  "Images": [
-    "https://spoonacular.com/recipeImages/632299-556x370.jpg"
-           
-          ],
+  "image": "https://spoonacular.com/recipeImages/632299-556x370.jpg",
 
   "summary": "If you have approximately approximately 45 minutes to spend in the kitchen, Maple Glazed Bacon Wrapped Pork Tenderloin might be an amazing gluten free, dairy free, paleolithic, and primal recipe to try. This recipe serves 4. One portion of this dish contains roughly 9g of protein, 18g of fat, and a total of 308 calories. For $1.7 per serving, this recipe covers 8% of your daily requirements of vitamins and minerals. If you have bacon, toothpicks, coarsely ground pepper, and a few other ingredients on hand, you can make it.",
-  "wine pairing": "N/A",
-  "Source": "https://www.foodista.com/recipe/8VJB2NF5/amazing-braised-beef-short-ribs"
+  "winePairing": "N/A",
+  "source": "https://www.foodista.com/recipe/8VJB2NF5/amazing-braised-beef-short-ribs"
 }, 
 {
-  "Id": 8,
+  "id": 8,
   "title": "Easy Chicken, Kielbasa and Shrimp Paella",
-  "ready in":  "45 minutes",
+  "readyIn":  "45 minutes",
   "servings": 8,
   "calories": 408,
-  "Ingredients": [
+  "ingredients": [
           "1 package (about 10 ounces) refrigerated fully-cooked chicken breast strips (about 1 3/4 cups)",
           "4 cups chicken broth or chicken stock, heated",
           "1 teaspoon ground turmeric",
@@ -283,22 +259,19 @@
     "Reduce the heat to low. Cover and cook for 15 minutes.",
     "Stir the kielbasa, shrimp and chicken in the skillet. Cover and cook for 5 minutes or until the rice is tender."
       ],
-  "Images": [
-    "https://spoonacular.com/recipeImages/641911-556x370.jpg"
-           
-          ],
+  "image": "https://spoonacular.com/recipeImages/641911-556x370.jpg",
 
   "summary": "You can never have too many main course recipes, so give Easy Chicken, Kielbasan and Shrimp Paellan a try. This gluten free, dairy free, and fodmap friendly recipe serves 8.",
-  "wine pairing": "N/A",
-  "Source": "http://www.foodista.com/recipe/JYKRF2ZZ/easy-chicken-kielbasa-and-shrimp-paella"
+  "winePairing": "N/A",
+  "source": "http://www.foodista.com/recipe/JYKRF2ZZ/easy-chicken-kielbasa-and-shrimp-paella"
 }, 
 {
-  "Id": 9,
+  "id": 9,
   "title": "Swiss Chard Wraps",
-  "ready in":  "45 minutes",
+  "readyIn":  "45 minutes",
   "servings": 6,
   "calories": 139,
-  "Ingredients": [
+  "ingredients": [
       "6-7 large swiss chard leaves, rinsed and dried",
       "1 small head of orange cauliflower",
       "1 1/2 Tbs olive oil",
@@ -323,22 +296,19 @@
     "Enjoy these wraps as a side to your favorite protein! Feel free to dip these wraps in more sauce.",
     "These wraps are best consumed when they are freshl…frigerate any leftovers in an airtight container."
       ],
-  "Images": [
-    "https://spoonacular.com/recipeImages/662670-556x370.jpg"
-           
-          ],
+  "images": "https://spoonacular.com/recipeImages/662670-556x370.jpg",
 
   "summary": "You can never have too many side dish recipes, so give Swiss Chard Wraps a try. This recipe serves 6.",
-  "wine pairing": "N/A",
-  "Source": "https://www.foodista.com/recipe/LHXZRNVW/swiss-chard-wraps"
+  "winePairing": "N/A",
+  "source": "https://www.foodista.com/recipe/LHXZRNVW/swiss-chard-wraps"
 }, 
 {
-  "Id": 10,
+  "id": 10,
   "title": "Classic Pot Roast",
-  "ready in":  "45 minutes",
+  "readyIn":  "45 minutes",
   "servings": 6,
   "calories": 340,
-  "Ingredients": [
+  "ingredients": [
       "2 pounds chuck roast",
       "Salt and pepper",
       "2 tablespoons vegetable oil",
@@ -361,14 +331,11 @@
     "Cover the pan and place in the oven and let cook for 6-8 hours, until the meat is fork tender.",
     "Serve with steamed potatoes or crusty bread."
       ],
-  "Images": [
-    "https://spoonacular.com/recipeImages/639628-556x370.jpg"
-           
-          ],
+  "image": "https://spoonacular.com/recipeImages/639628-556x370.jpg",
 
   "summary": "If you want to add more <b>gluten free and dairy free</b> recipes to your recipe box, Classic Pot Roast might be a recipe you should try.",
-  "wine pairing": "N/A",
-  "Source": "https://www.foodista.com/recipe/MHHJFJCK/classic-pot-roast"
+  "winePairing": "N/A",
+  "source": "https://www.foodista.com/recipe/MHHJFJCK/classic-pot-roast"
 }
 
 ]
